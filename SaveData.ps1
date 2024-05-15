@@ -1,6 +1,6 @@
 #  Core Keeper Save Data Script
 #  Version: 1.2.0
-#  Last Updated: 2023/01/08 16:17
+#  Last Updated: 2024/04/14
 #  Author: Hiroyuki Nishizawa
 
 # CoreKeeper Dedicated Server Program Path
