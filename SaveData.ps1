@@ -1,4 +1,4 @@
-#  Core Keeper Save Data Script
+#  Save Core Keeper Data Script
 #  Version: 1.2.0
 #  Last Updated: 2024/04/14
 #  Author: Hiroyuki Nishizawa
